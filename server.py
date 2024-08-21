@@ -1,7 +1,6 @@
 #Servidor comunitario, código base. 
 #
 # 
-# Día 1
 # 
 #  
 # 
